@@ -1,4 +1,4 @@
-# sexual-gender-minority
+# BFFRS Mental Health Dashboard
 
 ## Project Desription
 - In this project, I used the [The Behavioral Risk Factor Surveillance System (BRFSS) 2015](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system) survey dataset on Kaggle to answer three questions and create a dashboard based around mental health:
