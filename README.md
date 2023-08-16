@@ -2,6 +2,7 @@
 
 ## Project Desription
 - In this project, I used the [The Behavioral Risk Factor Surveillance System (BRFSS) 2015](https://www.kaggle.com/datasets/cdc/behavioral-risk-factor-surveillance-system) survey dataset on Kaggle to answer three questions and create a dashboard based around mental health:
+  
   Q1: Is there an association between being queer identifying individuals and being diagnosed with depression or anxiety by a provider?
 
   Q2: Do Bisexual indivdiuals have poorer mental health compared to their gay counterparts?
