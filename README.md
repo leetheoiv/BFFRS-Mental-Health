@@ -18,5 +18,5 @@
 3. Non-binary people are more likely to experience more depressive/anxious symptoms compared to other gender minorities. Especially, in states like Georiga, North Dakota, and West Virgina
 
 ## Dashboard
-  ![Screenshot 2023-08-15 at 6 28 44 PM](https://github.com/leetheoiv/sexual-gender-minority/assets/123781754/5cf12f00-59a7-410c-bf5a-b5084a9a072f)
-
+  ![Screenshot 2023-08-15 at 6 28 44 PM](https://youtu.be/WMs5es9O5wY)
+  
