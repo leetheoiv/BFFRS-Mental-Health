@@ -19,6 +19,6 @@
 
 ## Dashboard
 
-  [![bffrs](https://img.youtube.com/vi/SZYAWOskB_1/1.jpg)](https://www.youtube.com/watch?v=SZYAWOskB_0)
+  [![bffrs](https://img.youtube.com/vi/SZYAWOskB_0/0.jpg)](https://www.youtube.com/watch?v=SZYAWOskB_0)
 
 
